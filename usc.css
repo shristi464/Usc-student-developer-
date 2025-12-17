@@ -22,7 +22,7 @@ body {
 .small-title {
   font-size: 14px;
   letter-spacing: 3px;
-  color: #f97316; /* 🟠 orange accent */
+  color: #331f10; /* 🟠 orange accent */
   font-weight: 600;
   margin-bottom: 10px;
 }
@@ -31,7 +31,7 @@ body {
   font-family: 'Playfair Display', serif;
   font-size: 52px;
   font-weight: 700;
-  color: #e37f45;
+  color: #fe823f;
 }
 
 .main-title span {
