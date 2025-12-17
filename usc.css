@@ -22,7 +22,7 @@ body {
 .small-title {
   font-size: 14px;
   letter-spacing: 3px;
-  color: #331f10; /* 🟠 orange accent */
+  color: #331f10; 
   font-weight: 600;
   margin-bottom: 10px;
 }
