@@ -46,12 +46,21 @@ CSS3 – Styling, layout, animations, responsiveness
 project-folder/
 │
 ├── index.html
+
+
 ├── uipathstudentdeveloper.css
+
+
 └── README.md
+
+
 ![WhatsApp Image 2025-12-26 at 12 27 49_d09944ad](https://github.com/user-attachments/assets/0519438f-ea80-486e-9df2-f86642249f7e)
 
 
-![WhatsApp Image 2025-12-26 at 12 27 49_d16e539e](https://github.com/user-attachments/assets/15e4c1b4-e897-4eca-9b3b-2577c9611faf)
+![WhatsApp Image 2025-12-26 at 20 54 22_2f7fe47e](https://github.com/user-attachments/assets/c8882d12-1608-4f8a-80db-36cfeb482d7c)
+
+
+
 
 
 
